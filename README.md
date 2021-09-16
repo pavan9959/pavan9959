@@ -12,8 +12,15 @@
 ## 🛠 Tech stack
 
 💻 Javascript,ES5,ES6
+
 💡 HTML , CSS ,REACT JS, REDUX,REDUX-Thunk
 
-   || Bootstrap || Meterial UI || Semantic React UI,Git,git version control
+🧰 || Bootstrap || Meterial UI || Semantic React UI,Git,git version control
+
+## 🤝 Connect me at
+
+🧑  Email   --->    pavankdn@gmail.com
+
+ 🧑 Linked in --->   https://www.linkedin.com/in/pavan-pavan-16a80a220/
     
     
