@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**pavan9959/pavan9959** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 ,My name is Pavan
+🐱‍💻� About me
 
-Here are some ideas to get you started:
+📗 I am Passionate about web development,Quick learner
+👀 I’m interested in Front End development
+🌱 I’m currently learning and working on Front-End development using React js,Redux and Redux-thunk
+💞️ Learning new technology that will help me to be a full stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech stack
+
+💻 Javascript,ES5,ES6
+💡 HTML , CSS ,REACT JS, REDUX,REDUX-Thunk
+   || Bootstrap || Meterial UI || Semantic React UI
+    Git,git version control
+    
+    
