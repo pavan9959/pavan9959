@@ -17,7 +17,7 @@
 
 🧰 || Bootstrap || Meterial UI || Semantic React UI,Git,git version control
 
-## 🤝 Connect me at
+## 🤝 Contact me at
 
 🧑  Email   --->    pavankdn@gmail.com
 
