@@ -1,19 +1,19 @@
 ### Hi there 👋 ,My name is Pavan
 ## 🐱‍💻� About me
 
-📗 Passionate about web development,Quick learner
+📗 Passionate about web development and a quick learner.
 
 👀 Interested in Front End development
 
-🌱 Currently learning and working on Front-End development using React js,Redux and Redux-thunk
+🌱 Currently working on and enhancing skills in Front-End development using React.js, Redux, and Redux-thunk.
 
-💞️ Learning new technology, that will help me to be a full stack developer
+💞️ Actively learning new technologies to transition into a full-stack developer role.
 
 ## 🛠 Tech stack
 
-💻 Javascript,ES5,ES6
+💻 JavaScript (ES5, ES6), TypeScript
 
-💡 HTML , CSS ,REACT-JS, REDUX, REDUX-Thunk
+💡HTML, CSS, React.js, Redux, Context API, Redux-Thunk, REST APIs
 
 🧰 || Bootstrap || Meterial UI || Semantic React UI,Git,git version control
 
@@ -21,6 +21,8 @@
 
 🧑  Email   --->    pavankdn@gmail.com
 
- 🧑 Linked in --->   https://www.linkedin.com/in/pavan-pavan-16a80a220/
+🧑 Linked in --->   www.linkedin.com/in/pavan-kdn-16a80a220
+
+ Experience: 4 years in React.js web development
     
     
